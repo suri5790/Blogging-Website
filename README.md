@@ -23,7 +23,7 @@ A fully functional blogging platform built with **Prisma, Wrangler, Hono, and Ty
 
 ## How to Use
 
-1. Visit the **[Live Platform](https://blogging-website-livid.vercel.app/)** (Add your deployment URL here).
+1. Visit the **[Live Platform] https://blogging-website-livid.vercel.app/** (Add your deployment URL here).
 2. Sign up or sign in to your account.
 3. Create, publish, and manage your blogs seamlessly.
 
